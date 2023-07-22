@@ -1,1 +1,2 @@
-"# FYP-VQA_XAI-Deepananth-Jayakrishnan-Dr.S.Kaitha" 
+# Final Year Project
+## Visual Question Answering for Medical Images with Explainable AI (VQA-XAI)
